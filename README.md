@@ -8,7 +8,7 @@
 
 ### This is built using HTML, CSS, JavaScript <br/>
 
-
+https://akashtidke.github.io/sorting_visulizer/
 
 <img src="img/img1.png"> <br/>
 <img src="img/img2.png"> <br/>
